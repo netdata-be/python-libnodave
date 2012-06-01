@@ -10,7 +10,7 @@ setup(
   name='libnodave',
   version='1.0',
   description='LibNoDave C lib wrapper',
-  long_description=read('README'),
+  long_description=read('README.md'),
   author='Wouter DHaeseleer',
   author_email='info@netdata.be',
   url='http://netdata.be',
